@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an MTech student at Electrical Engineering Department, IIT Bombay.<br>My primary areas of interest are FPGA-based acceleration and Digital ASIC design, but I like to dabble in Machine Learning, Digital Signal Processing and Cryptography.<br><br>Currently I am a part of High Performance Computing (HPC) Lab, where I am working on designing hardware accelerators for Post Quantum Cryptography protocols and interfacing them with "Swadeshi" Microprocessors such as SHAKTI and AJIT. I am also working on ASIC design for the same using open source tools (AHIR-v2 and OpenLane). 
+I'm an MTech student at Electrical Engineering Department, IIT Bombay.<br>My primary areas of interest are FPGA-based acceleration and Digital ASIC design, but I also like to dabble in Machine Learning, Digital Signal Processing and Cryptography.<br><br>Currently I am a part of High Performance Computing (HPC) Lab, where I am working on designing hardware accelerators for Post Quantum Cryptography and Fully Homomorphic Encryption, and interfacing them with "Swadeshi" Microprocessors such as the RISC-V based SHAKTI processor.  
 
 
 ## 🌐 Socials:
