@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an MTech student at Electrical Engineering Department, IIT Bombay.<br>My primary areas of interest are FPGA-based acceleration and Digital ASIC design, but I also like to dabble in Machine Learning, Digital Signal Processing and Cryptography.<br><br> I am a part of High Performance Computing (HPC) Lab, where I am working on hardware accelerators and system-on-chip (SoC) for Post Quantum Cryptography using Open Source Tools.  
+I'm an MTech student at Electrical Engineering Department, IIT Bombay.<br>My primary areas of interest are FPGA-based acceleration and Digital ASIC design, but I also like to dabble in Machine Learning, Digital Signal Processing and Cryptography.<br><br> I am a part of High Performance Computing (HPC) Lab, where I am working on hardware accelerators and systems-on-chip (SoCs) for Lattice-Based Post Quantum Cryptography using Open Source Tools.  
 
 
 ## 🌐 Socials:
