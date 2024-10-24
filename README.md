@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm presently working as Digital Engineer (IP Design & Verification) at Texas Instruments, Bangalore.<br><br>I'm an MTech graduate from Electrical Engineering Department, IIT Bombay.<br>My primary areas of interest are FPGA-based acceleration and Digital ASIC design and I enjoy exploring open source tools that help in the same. I also like to dabble in Machine Learning, Embedded System Design, Digital Signal Processing and Cryptography. <br><br> During my time at IIT Bombay, I was a part of High Performance Computing (HPC) Lab, where I worked on hardware accelerators and systems-on-chip (SoCs) for Lattice-Based Post Quantum Cryptography.  
+I'm presently working as Digital Engineer (IP Design & Verification) at Texas Instruments, Bangalore.<br>My primary areas of interest are FPGA-based acceleration and Digital ASIC design and I enjoy exploring open source tools that help in the same. I also like to dabble in Machine Learning, Embedded System Design, Digital Signal Processing and Cryptography.<br><br>I'm an MTech graduate from Electrical Engineering Department, IIT Bombay.<br>During my time at IIT Bombay, I was a part of High Performance Computing (HPC) Lab, where I worked on hardware accelerators and systems-on-chip (SoCs) for Lattice-Based Post Quantum Cryptography.  
 
 
 ## 🌐 Socials:
